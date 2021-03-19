@@ -31,13 +31,13 @@ body {
     /*cor da letra*/
     width: 25%;
     /*largura da div*/
-    float: left;
+    float: right;
     /*faz a div ficar "flutuando" à esquerda*/
 }
 
 .geral {
     width: 75%;
-    float: right;
+    float: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
