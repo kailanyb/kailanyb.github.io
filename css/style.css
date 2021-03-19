@@ -23,7 +23,7 @@ body {
 }
 
 .pessoal {
-    background-color: #335384;
+    background-color: #FFB6C1;
     /*cor de fundo*/
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     /*fontes que podem ser utilizadas na div "pessoal", coloca-se várias porque nem sempre a primeira fonte pode ser usada pelo navegador, ai o navegador carrega a próxima fonte da esquerda para a direita*/
@@ -55,7 +55,7 @@ body {
     font-weight: bold;
     /*esse foi pra deixar a letra em negrito*/
     font-size: 25px;
-    color: #5ba7d1;
+    color: #000000;
 }
 
 .habilidades {
