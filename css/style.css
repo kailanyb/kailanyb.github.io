@@ -23,7 +23,7 @@ body {
 }
 
 .pessoal {
-    background-color: #A52A2A;
+    background-color: #FFC0CB;
     /*cor de fundo*/
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     /*fontes que podem ser utilizadas na div "pessoal", coloca-se várias porque nem sempre a primeira fonte pode ser usada pelo navegador, ai o navegador carrega a próxima fonte da esquerda para a direita*/
