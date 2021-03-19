@@ -10,7 +10,7 @@ body {
 /*no HTML classe="perfil" então no CSS ".perfil", no HTML id="perfil" então no CSS #perfil */
 
 {
-    border-radius: 50%;
+    border-radius: 0;
     /*deixa a imagem em círculo arredondando as bordas dela*/
     width: 150px;
     /*largura da foto*/
