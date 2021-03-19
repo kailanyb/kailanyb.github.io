@@ -12,9 +12,9 @@ body {
 {
     border-radius: 50%;
     /*deixa a imagem em círculo arredondando as bordas dela*/
-    width: 450px;
+    width: 150px;
     /*largura da foto*/
-    height: 900px;
+    height: 300px;
     /*altura da foto*/
     border: black solid 1px;
     /*borda em volta da foto com cor preta, o solid serve pra borda aparecer e 1px é a finura da borda*/
